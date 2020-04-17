@@ -10,6 +10,7 @@ import javax.validation.constraints.NotBlank;
 @Setter
 @Entity
 @Table(name = "notes")
+public
 class Note {
 
     @Id
